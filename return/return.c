@@ -3,7 +3,7 @@
 
 int add() //int 返回值整数
 {
-	return 100;
+	return 1000;
 }
 
 void main()
