@@ -1,0 +1,6 @@
+#include<stdlib.h>
+void main()
+{
+	system("calc");
+	system("echo hello china");
+}
